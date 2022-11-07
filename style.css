@@ -1,0 +1,63 @@
+body{
+	background: #CCCCCC;
+}
+
+
+p{
+	text-align: :center;
+}
+
+em strong{
+	color: #FF000;
+}
+
+
+h1{
+	text-align: center;
+
+}
+
+#craftimage{
+	width: 100%;
+}
+
+
+.itens{
+	font-style: oblique;
+	font-size: 40px;
+
+
+}
+
+.principal{
+	background: #FF000;
+}
+
+
+.lista{
+             background :#CCCCCC
+}
+
+ul{
+
+display: inline-block;
+
+vertical-align: top;
+
+margin-right:15% ;
+
+width: 30%;
+}
+
+h2{
+	text-align: center;
+}
+
+h3{
+	text-align: center;
+}
+
+
+.tituluzinho{
+	padding-left: 30px;
+}
